@@ -1,2 +1,2 @@
 # DataScienceAndML
-repository dedicated to data science and ML projects
+Text generation using GPT-2 and LSTM
